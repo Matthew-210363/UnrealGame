@@ -1,3 +1,2 @@
-2024/09/30-16:56:59.945 278c Reusing MANIFEST C:/Users/sebastian/Desktop/UnrealGame/SwordGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/09/30-16:56:59.971 278c Recovering log #3
-2024/09/30-16:56:59.973 278c Reusing old log C:/Users/sebastian/Desktop/UnrealGame/SwordGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/11/05-16:36:17.025 4034 Creating DB C:/Users/sebas/Desktop/Unreal/UnrealGame/SwordGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/11/05-16:36:17.059 4034 Reusing MANIFEST C:/Users/sebas/Desktop/Unreal/UnrealGame/SwordGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

@@ -6,7 +6,7 @@
 #include "EnhancedInputComponent.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
-
+#include "GameFramework/Controller.h"
 
 // Sets default values
 AKnight::AKnight()
@@ -55,8 +55,15 @@ void AKnight::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void AKnight::Move(const FInputActionInstance& Instance)
 {
 	FVector2D vector = Instance.GetValue().Get<FVector2D>();
-	FVector forward = GetActorForwardVector();
-	FVector right = GetActorRightVector();
+	//FVector forward = GetActorForwardVector();
+	//FVector right = GetActorRightVector();
+
+	FRotator ControlRotation = GetControlRotation();
+	FRotator YawRotation = FRotator(0, ControlRotation.Yaw, 0);
+
+	auto forward = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
+	auto right = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);	
+	
 	AddMovementInput(forward, vector.X);
 	AddMovementInput(right, vector.Y);
 }

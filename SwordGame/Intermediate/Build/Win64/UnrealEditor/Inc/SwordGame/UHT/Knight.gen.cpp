@@ -122,14 +122,14 @@ AKnight::~AKnight() {}
 // End Class AKnight
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_sebas_Desktop_Unreal_UnrealGame_SwordGame_Source_SwordGame_Public_Knight_h_Statics
+struct Z_CompiledInDeferFile_FID_SwordGame_Source_SwordGame_Public_Knight_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AKnight, AKnight::StaticClass, TEXT("AKnight"), &Z_Registration_Info_UClass_AKnight, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AKnight), 2244094189U) },
+		{ Z_Construct_UClass_AKnight, AKnight::StaticClass, TEXT("AKnight"), &Z_Registration_Info_UClass_AKnight, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AKnight), 3061134488U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sebas_Desktop_Unreal_UnrealGame_SwordGame_Source_SwordGame_Public_Knight_h_478332420(TEXT("/Script/SwordGame"),
-	Z_CompiledInDeferFile_FID_Users_sebas_Desktop_Unreal_UnrealGame_SwordGame_Source_SwordGame_Public_Knight_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sebas_Desktop_Unreal_UnrealGame_SwordGame_Source_SwordGame_Public_Knight_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SwordGame_Source_SwordGame_Public_Knight_h_679261661(TEXT("/Script/SwordGame"),
+	Z_CompiledInDeferFile_FID_SwordGame_Source_SwordGame_Public_Knight_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SwordGame_Source_SwordGame_Public_Knight_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

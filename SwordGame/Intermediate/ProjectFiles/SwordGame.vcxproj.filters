@@ -36,12 +36,15 @@
     <ClCompile Include="..\..\Source\SwordGame\SwordGame.cpp">
       <Filter>Source\SwordGame</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SwordGame\SwordGame.h">
+    <ClCompile Include="..\..\Source\SwordGame\SwordGame.h">
       <Filter>Source\SwordGame</Filter>
-    </ClInclude>
+    </ClCompile>
     <Filter Include="Source\SwordGame\Private">
       <UniqueIdentifier>{500F00DF-0A4F-39F2-AF13-1FFBF4030FEC}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SwordGame\Private\Knight.cpp">
+      <Filter>Source\SwordGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\SwordGame\Private\Items">
       <UniqueIdentifier>{17C361C8-F05B-3A71-A237-EDF42CAC84C8}</UniqueIdentifier>
     </Filter>
@@ -57,17 +60,20 @@
     <Filter Include="Source\SwordGame\Public">
       <UniqueIdentifier>{1344D5CA-8C19-37F9-8E12-43F9B15B2AB8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SwordGame\Public\Knight.h">
+      <Filter>Source\SwordGame\Public</Filter>
+    </ClCompile>
     <Filter Include="Source\SwordGame\Public\Items">
       <UniqueIdentifier>{C2D4E190-5F3C-3B7D-BC2A-F31DF15F700B}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\SwordGame\Public\Items\Item.h">
+    <ClCompile Include="..\..\Source\SwordGame\Public\Items\Item.h">
       <Filter>Source\SwordGame\Public\Items</Filter>
-    </ClInclude>
+    </ClCompile>
     <Filter Include="Source\SwordGame\Public\Pawns">
       <UniqueIdentifier>{FD7775D0-862B-3750-A77F-737933ED6379}</UniqueIdentifier>
     </Filter>
-    <ClInclude Include="..\..\Source\SwordGame\Public\Pawns\Bird.h">
+    <ClCompile Include="..\..\Source\SwordGame\Public\Pawns\Bird.h">
       <Filter>Source\SwordGame\Public\Pawns</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>

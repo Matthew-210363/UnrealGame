@@ -1,11 +1,13 @@
-"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Source\SwordGame\SwordGame.cpp"
-/FI"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Definitions.SwordGame.h"
-/Yu"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.cpp.obj"
-/sourceDependencies "C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.cpp.dep.json"
-@"C:\Users\sebas\Desktop\Unreal\UnrealGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.Shared.rsp"
+"D:\SwordGame\Source\SwordGame\SwordGame.cpp"
+/FI"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Definitions.SwordGame.h"
+/Yu"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.cpp.obj"
+/experimental:log "D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.cpp.sarif"
+/sourceDependencies "D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.cpp.dep.json"
+@"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

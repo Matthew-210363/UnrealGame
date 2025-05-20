@@ -1,12 +1,12 @@
-"D:\SwordGame\Intermediate\Build\Win64\UnrealEditor\Inc\SwordGame\UHT\Knight.gen.cpp"
-/FI"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Definitions.SwordGame.h"
-/Yu"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"D:\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.obj"
-/experimental:log "D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.sarif"
-/sourceDependencies "D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.dep.json"
-@"D:\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.Shared.rsp"
+"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\UnrealEditor\Inc\SwordGame\UHT\Knight.gen.cpp"
+/FI"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Definitions.SwordGame.h"
+/Yu"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\SwordGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.obj"
+/experimental:log "C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.sarif"
+/sourceDependencies "C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\Knight.gen.cpp.dep.json"
+@"C:\Dev\Unreal Projects\SwordGame\SwordGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\SwordGame\SwordGame.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeSwordGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x0F953923,
+				0xB93A7EED,
 				0x35AD9140,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeSwordGame_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_SwordGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SwordGame(Z_Construct_UPackage__Script_SwordGame, TEXT("/Script/SwordGame"), Z_Registration_Info_UPackage__Script_SwordGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0F953923, 0x35AD9140));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SwordGame(Z_Construct_UPackage__Script_SwordGame, TEXT("/Script/SwordGame"), Z_Registration_Info_UPackage__Script_SwordGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB93A7EED, 0x35AD9140));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
